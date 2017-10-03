@@ -1,3 +1,3 @@
 # hello_world
 
-Another Hello World, this time public.
+Practicing more basic changes with Hello World.
